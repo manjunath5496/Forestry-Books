@@ -16,7 +16,12 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Forestry-Books/blob/master/ore(15).pdf" style="text-decoration:none;">The Value of Forests </a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Forestry-Books/blob/master/ore(16).pdf" style="text-decoration:none;">A Glossary of Common Forestry Terms</a></b></li>
                               
- 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Forestry-Books/blob/master/ore(9).pdf" style="text-decoration:none;">Tropical Forest Community Ecology</a></b></li>
+                                
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Forestry-Books/blob/master/ore(17).pdf" style="text-decoration:none;">The Ecology of Trees in the Tropical Rain Forest   </a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Forestry-Books/blob/master/ore(18).pdf" style="text-decoration:none;">Food from your forest garden: How to harvest, cook and preserve your forest garden produce</a></b></li>
+
+                              
  
  
  </ul>
